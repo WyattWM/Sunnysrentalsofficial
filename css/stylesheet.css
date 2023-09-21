@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'TAN - SUMMERS';
+    src: url('TAN-SUMMERS-Regular.eot');
+    src: url('TAN-SUMMERS-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TAN-SUMMERS-Regular.woff2') format('woff2'),
+        url('TAN-SUMMERS-Regular.woff') format('woff'),
+        url('TAN-SUMMERS-Regular.ttf') format('truetype'),
+        url('TAN-SUMMERS-Regular.svg#TAN-SUMMERS-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TAN - SUMMERS';
+    src: url('TAN.eot');
+    src: url('TAN.eot?#iefix') format('embedded-opentype'),
+        url('TAN.woff2') format('woff2'),
+        url('TAN.woff') format('woff'),
+        url('TAN.ttf') format('truetype'),
+        url('TAN.svg#TAN') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TAN - SUMMERS';
+    src: url('TAN_1.eot');
+    src: url('TAN_1.eot?#iefix') format('embedded-opentype'),
+        url('TAN_1.woff2') format('woff2'),
+        url('TAN_1.woff') format('woff'),
+        url('TAN_1.ttf') format('truetype'),
+        url('TAN_1.svg#TAN') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TAN - SUMMERS';
+    src: url('TAN-SUMMERS-Regular_1.eot');
+    src: url('TAN-SUMMERS-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('TAN-SUMMERS-Regular_1.woff2') format('woff2'),
+        url('TAN-SUMMERS-Regular_1.woff') format('woff'),
+        url('TAN-SUMMERS-Regular_1.ttf') format('truetype'),
+        url('TAN-SUMMERS-Regular_1.svg#TAN-SUMMERS-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
